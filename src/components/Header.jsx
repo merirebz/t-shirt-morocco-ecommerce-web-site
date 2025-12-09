@@ -8,7 +8,7 @@ export default function Header({ cartCount, onToggleCart }) {
       <nav className="nav container">
         <a href="#" className="nav__logo">
           <img src="/assets/img/favicon.png" className="imgr" alt="" />
-          <p>STORE</p>
+          <p>LionsTeamGear</p>
         </a>
 
         <div className="nav__btns">
