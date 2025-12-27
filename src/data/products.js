@@ -26,4 +26,20 @@ export const products = [
     category: "sweatshirts",
     stock: 20,
   },
+  {
+    id: 4,
+    name: "Hoodies",
+    price: 14,
+    image: img1,
+    category: "hoodies",
+    stock: 10,
+  },
+  {
+    id: 5,
+    name: "Hoodies",
+    price: 14,
+    image: img1,
+    category: "hoodies",
+    stock: 10,
+  },
 ];
