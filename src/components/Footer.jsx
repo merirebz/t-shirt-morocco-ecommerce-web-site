@@ -4,6 +4,7 @@ export default function Footer() {
       <div className="footer__container container grid">
         <div className="footer__content">
           <h3 className="footer__title">Our information</h3>
+          <p>Store</p>
           <p>Morocco</p>
         </div>
 
