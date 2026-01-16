@@ -7,7 +7,6 @@ export default function Footer() {
           <p>Store</p>
           <p>Morocco</p>
         </div>
-
         <div className="footer__content">
           <h3 className="footer__title">Social</h3>
           <div className="footer__social">
