@@ -4,7 +4,6 @@ export default function ProductCard({ product, onAdd }) {
       <div className="products__shape">
         <img src={product.image} className="products__img" alt={product.name} />
       </div>
-
       <div className="products__data">
         <h2 className="products__price">
           ${product.price}.00
