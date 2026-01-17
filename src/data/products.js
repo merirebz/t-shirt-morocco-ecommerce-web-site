@@ -1,6 +1,7 @@
-import img1 from "../img/ss.png";
+import img1 from "../img/h2.jpg";
 import img2 from "../img/s.png";
 import img3 from "../img/w.png";
+import img4 from "../img/ss.png";
 export const products = [
   {
     id: 1,
@@ -26,11 +27,12 @@ export const products = [
     category: "sweatshirts",
     stock: 20,
   },
+   
   {
     id: 4,
     name: "Hoodies",
     price: 14,
-    image: img1,
+    image: img4,
     category: "hoodies",
     stock: 10,
   },
