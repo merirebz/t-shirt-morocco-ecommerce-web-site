@@ -36,9 +36,5 @@ export const products = [
     category: "hoodies",
     stock: 10,
   },
-  {
-    id: 5,
-    name: "Hoodies",
-    
     
 ];
