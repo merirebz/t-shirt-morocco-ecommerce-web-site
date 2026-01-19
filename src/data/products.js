@@ -41,7 +41,5 @@ export const products = [
     name: "Hoodies",
     price: 14,
     image: img1,
-    category: "hoodies",
-    stock: 10,
-  },
+    
 ];
