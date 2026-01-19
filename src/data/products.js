@@ -27,7 +27,6 @@ export const products = [
     category: "sweatshirts",
     stock: 20,
   },
-   
   {
     id: 4,
     name: "Hoodies",
@@ -35,6 +34,5 @@ export const products = [
     image: img4,
     category: "hoodies",
     stock: 10,
-  },
-    
+  },   
 ];
