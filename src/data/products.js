@@ -39,7 +39,6 @@ export const products = [
   {
     id: 5,
     name: "Hoodies",
-    price: 14,
-    image: img1,
+    
     
 ];
